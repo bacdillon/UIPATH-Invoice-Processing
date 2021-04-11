@@ -18,3 +18,5 @@ Step Short Description:
 1.4 Access the Invoice Items listing to view all the invoices (Display All Invoices)  
 1.5 Get only Invoice No, Vendor Tax ID, Invoice Date  
 1.6 Store the above 3 values into the orchestrator queue (invoice_details) for further processing Process Flow Chart
+
+![alt text](https://github.com/bacdillon/UIPATH-Invoice-Processing/blob/main/Invoice%20Processing.JPG)
